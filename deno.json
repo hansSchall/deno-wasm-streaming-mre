@@ -1,0 +1,18 @@
+{
+    "fmt": {
+        "indentWidth": 4,
+        "exclude": [
+            "target",
+            "pkg"
+        ]
+    },
+    "lint": {
+        "exclude": [
+            "target",
+            "pkg"
+        ]
+    },
+    "imports": {
+        "@std/http": "jsr:@std/http@^1.0.5"
+    }
+}
